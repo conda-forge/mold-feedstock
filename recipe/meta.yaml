@@ -32,7 +32,7 @@ test:
 
 about:
   home: https://github.com/rui314/mold
-  license: AGPL-3.0-or-later
+  license: MIT
   license_file: LICENSE
   summary: A Modern Linker
 
