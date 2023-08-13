@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mold-feedstock/
 
 Home: https://github.com/rui314/mold
 
-Package license: AGPL-3.0-or-later
+Package license: MIT
 
 Summary: A Modern Linker
 
