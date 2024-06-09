@@ -21,6 +21,6 @@ target_platform:
 tbb_devel:
 - '2021'
 zlib:
-- '1.2'
+- '1'
 zstd:
 - '1.5'
