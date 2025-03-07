@@ -1,5 +1,5 @@
 {% set name = "mold" %}
-{% set version = "2.37.0" %}
+{% set version = "2.37.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/rui314/mold/archive/v{{ version }}.tar.gz
-  sha256: 28372bbc2ce069aa0362ba84ad5d1b0f2c0bcf84e95a0f533ecf79cb3aff232c
+  sha256: b8e36086c95bd51e9829c9755c138f5c4daccdd63b6c35212b84229419f3ccbe
 
 build:
   number: 0
