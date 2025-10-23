@@ -2,8 +2,6 @@ c_stdlib:
 - sysroot
 c_stdlib_version:
 - '2.17'
-cdt_name:
-- conda
 channel_sources:
 - conda-forge
 channel_targets:
@@ -17,7 +15,7 @@ docker_image:
 mimalloc:
 - 3.1.5
 openssl:
-- '3'
+- '3.5'
 target_platform:
 - linux-ppc64le
 tbb_devel:
